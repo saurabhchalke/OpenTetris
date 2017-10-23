@@ -1,5 +1,5 @@
 # OpenTetris
-The OpenGL rendition of the classic Tetrimino based Tetris Game using C. movee t th
+The OpenGL rendition of the classic Tetrimino based Tetris Game using C.
 
 The basic controls for the game are as follows:
 > A - Move the tetrimino to the left <br />
